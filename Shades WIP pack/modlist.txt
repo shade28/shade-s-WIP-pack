@@ -1,0 +1,57 @@
+AppleCore-mc1.7.10-1.1.0
+appliedenergistics2-rv2-beta-8
+Automagy-1.7.10-0.19.3
+BloodMagic-1.7.10-1.3.0b-3
+Botania r1.4-157
+Carpenter's Blocks v3.3.5 - MC 1.7.10
+ChickenChunks-1.7.10-1.3.4.17-universal
+Chisel2_DEV-2.3.5.1e7d12f
+CodeChickenCore-1.7.10-1.0.4.35-universal
+CoFHCore-[1.7.10]3.0.0B9-40
+ComputerCraft1.65
+eirairc-mc1.7.10-v1.7.52
+EnderIO-1.7.10-2.2.8.349
+EnderStorage-1.7.10-1.4.5.27-universal
+ExtraCells-1.7.10-2.2.53b82
+extrautilities-1.2.1
+fastcraft-1.9
+Forbidden Magic-1.7.10-0.552
+HQM-The Journey (4.2.2)
+HungerOverhaul-1.7.10-beta.5
+INpureCore-[1.7.10]1.0.0B7-19
+InventoryTweaks-1.59-dev-156
+ironchest-1.7.10-6.0.62.742-universal
+Jabba-1.2.0a_1.7.10
+JourneyMap5.0.1_Unlimited_MC1.7.10
+LunatriusCore-1.7.10-1.1.2.21-universal
+neiaddons-mc1710-1.12.3.11
+NEIPlugins-MC1.7.10-1.1.0.11-unofficial
+NodalMechanics-1.7-1.0-7
+NotEnoughItems-1.7.10-1.0.3.74-universal
+OpenBlocks-1.7.10-1.3-snapshot-553
+OpenModsLib-1.7.10-0.6-snapshot-306
+Pam's HarvestCraft 1.7.10f
+ProjectE-1.7.10-PE1.1.0
+ProjectRed-1.7.10-4.5.8.59-Base
+ProjectRed-1.7.10-4.5.8.59-Compat
+ProjectRed-1.7.10-4.5.8.59-Integration
+ProjectRed-1.7.10-4.5.8.59-Lighting
+ProjectRed-1.7.10-4.5.8.59-Mechanical_beta
+ProjectRed-1.7.10-4.5.8.59-World
+RandomThings-2.2.4
+SpiceOfLife-mc1.7.10-1.2.3
+Stackie-1.7.10-1.5.1.30-universal
+tcnodetracker-1.7.10-1.0.2
+Thaumcraft-1.7.10-4.2.3.4
+thaumcraftneiplugin-1.7.10-1.6a
+thaumicenergistics-0.8.9.0b-rv2
+ThaumicExploration-1.7.10-1.1-37
+ThaumicTinkerer-2.5-1.7.10-466
+TWarden-1.1.1
+StevesFactoryManagerA93
+YUNoMakeGoodMap-1.7.10-4.0.0.12-universal
+Lockdown-deobf-1.7.2-2.0.0.0
+Waila-1.5.7a_1.7.10
+WailaHarvestability-mc1.7.x-1.1.2
+MineTweaker3-1.7.10-3.0.9C
+ModTweaker-1.7.X-0.6-22

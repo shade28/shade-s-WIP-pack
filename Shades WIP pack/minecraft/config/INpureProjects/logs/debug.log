@@ -1,0 +1,108 @@
+Starting NEI Filter scripting. This might take a moment to load all the modules...
+Setting up Java Library...
+Setting up FML Library...
+Setting up NEI Library...
+Setting up CreativeTab library...
+Found creative tab: tabBloodMagic
+Found creative tab: misc
+Found creative tab: Automagy
+Found creative tab: tools
+Found creative tab: Botania
+Found creative tab: CarpentersBlocks
+Found creative tab: ComputerCraft
+Found creative tab: EnderIO
+Found creative tab: decorations
+Found creative tab: extraUtil
+Found creative tab: combat
+Found creative tab: extraUtil_FMP
+Found creative tab: forbidden
+Found creative tab: mobcrystal
+Found creative tab: Hardcore Questing Mode
+Found creative tab: jabba
+Found creative tab: nodalmechanics.tab
+Found creative tab: tabOpenBlocks
+Found creative tab: core
+Found creative tab: exploration
+Found creative tab: ill
+Found creative tab: int
+Found creative tab: trans
+Found creative tab: transport
+Found creative tab: ProjectE
+Found creative tab: Random Things
+Found creative tab: sfm
+Found creative tab: TWarden
+Found creative tab: thaumcraft
+Found creative tab: thaumicExploration
+Found creative tab: buildingBlocks
+Found creative tab: ThaumicTinkerer
+Found creative tab: brewing
+Found creative tab: materials
+Found creative tab: appliedenergistics2
+Found creative tab: appliedenergistics2.facades
+Found creative tab: tabWoodChiselBlocks
+Found creative tab: tabModdedChiselBlocks
+Found creative tab: tabStoneChiselBlocks
+Found creative tab: tabOtherChiselBlocks
+Found creative tab: tabChisel
+Found creative tab: tabMetalChiselBlocks
+Found creative tab: Extra_Cells
+Found creative tab: tabHarvestCraft2
+Found creative tab: tabHarvestCraft3
+Found creative tab: tabHarvestCraft
+Found creative tab: transportation
+Found creative tab: food
+Found creative tab: redstone
+Found creative tab: ThaumicEnergistics
+Setting up ForgeMicroblock Library...
+Setting up ExtraUtilities Library...
+Setting up Applied Energistics 2 Library...
+Loading table of contents for module: custom_nei_filters, 1.0, Author: denoflionsx
+Bootstrap setting found. Loading: Bootstrap.js
+Loading: vanilla.js
+override called. Params: minecraft, portal
+hide called. Params: minecraft, portal
+Found ItemStack minecraft:portal. 64xtile.portal@0
+override called. Params: minecraft, end_portal
+hide called. Params: minecraft, end_portal
+Found ItemStack minecraft:end_portal. 64xtile.null@0
+override called. Params: minecraft, fire
+hide called. Params: minecraft, fire
+Found ItemStack minecraft:fire. 64xtile.fire@0
+override called. Params: minecraft, water
+hide called. Params: minecraft, water
+Found ItemStack minecraft:water. 64xtile.water@0
+override called. Params: minecraft, lava
+hide called. Params: minecraft, lava
+Found ItemStack minecraft:lava. 64xtile.lava@0
+override called. Params: minecraft, mob_spawner
+hide called. Params: minecraft, mob_spawner
+Found ItemStack minecraft:mob_spawner. 64xtile.mobSpawner@0
+override called. Params: potion, 0
+override called. Params: minecraft, potion
+Found ItemStack minecraft:potion. 1xitem.potion@0
+override called. Params: spawn_egg, 0
+override called. Params: minecraft, spawn_egg
+Found ItemStack minecraft:spawn_egg. 64xitem.monsterPlacer@0
+Loading: ThermalExpansion.js
+Loading: Mekanism.js
+Loading: ForgeMicroblock.js
+getRandomMaterial called. Returned: tile.blockCosmeticSolid_6
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, tile.blockCosmeticSolid_6
+Loading: ExtraUtilities.js
+override called. Params: drum, 0,1
+override called. Params: ExtraUtilities, drum
+Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
+getRandomMaterial called. Returned: tile.blockCosmeticSolid_1
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, tile.blockCosmeticSolid_1
+Loading: BuildCraft.js
+Loading: Bibliocraft.js
+Loading: AppliedEnergistics2.js
+getFacadeItem called.
+getSubTypes called.
+getNumberOfTypes called. Returned: 1444
+The function override_item is deprecated. Please use override instead! This function will be removed in a future version!
+override called. Params: item.ItemFacade, 665
+override called. Params: appliedenergistics2, item.ItemFacade
+Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
+Loading: Tcon.js
+Loading: MFR.js
